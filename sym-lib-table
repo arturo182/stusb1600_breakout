@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Interface_USB_Extra)(type Legacy)(uri ${KIPRJMOD}/library/Interface_USB_Extra.lib)(options "")(descr ""))
+  (lib (name Transistor_FET_Extra)(type Legacy)(uri ${KIPRJMOD}/library/Transistor_FET_Extra.lib)(options "")(descr ""))
+)
